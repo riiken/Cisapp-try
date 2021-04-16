@@ -1,0 +1,115 @@
+
+
+.first{
+    background-color: #D0E3F7;
+    height: auto;
+    
+}
+
+.second{
+    background-color: white;
+}
+.left{
+    position: fixed;
+    transform: translate(-50%, -50%);
+    top: 30px;
+    left: 60px;
+    color: #3B3E79;
+    font-weight: bold;
+}
+
+.right{
+    position: fixed;
+    transform: translate(-50%, -50%);
+    top: 35px;
+    right: 5px;
+    background-color: #3B3E79;
+    color: white;
+
+}
+
+.one{
+    position: fixed;
+    transform: translate(-50%, -50%);
+    top: 30px;
+    right: 830px;
+}
+
+.two{
+    position: fixed;
+    transform: translate(-50%, -50%);
+    top: 30px;
+    right: 730px;
+}
+
+.three{
+    position: fixed;
+    transform: translate(-50%, -50%);
+    top: 30px;
+    right: 630px;
+}
+
+.card{
+    background-color: #D0E3F7;
+    height: 450px;
+}
+
+.card-title{
+    margin-left: 40%;
+    margin-top: 10%;
+}
+
+.card-text{
+    margin-left: 430px;
+    margin-bottom: -3px;
+    font-weight: lighter;
+}
+
+.card-tex{
+    margin-left: 550px;
+    font-weight: lighter;
+}
+
+.btn1{
+    background-color: #3B3E79;
+    color: white;
+    margin-left: 600px;
+}
+
+.btn2{
+    color:#3B3E79;
+    border: 2px solid #3B3E79 ;
+    background-color: #D0E3F7;
+    
+    margin-top: 50px;
+}
+
+.head2{
+    margin-top: 50px;
+    margin-left: 500px;
+}
+
+.h5{
+    margin-left: 100px;
+}
+.h51{
+    margin-left: 130px;
+}
+
+.h52{
+    margin-left: 100px;
+}
+
+.para{
+    margin-left: 40px;
+}
+.discover{
+    color:#3B3E79 ;
+    font-weight: bold;
+    margin-left: 150px;
+}
+
+svg{
+    margin-left: 190px;
+    color: #3B3E79;
+}

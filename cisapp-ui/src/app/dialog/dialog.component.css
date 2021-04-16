@@ -1,0 +1,18 @@
+.one,.two{
+    background-color:#D5E7DC;
+    width: 80%;
+    margin-top: 51px;
+    margin-left: 41px;
+    outline: none;
+    border: none;
+    font-size: 29px;
+}
+
+.btn{
+    width: 90%;
+    font-size: 20px;
+    margin-top: 60px;
+    margin-left: 20px;
+    background-color: #3B3E79;
+    color: white;
+}
